@@ -1,0 +1,15 @@
+C:\Users\Sena\Downloads\ejercicio\Principal\bin\Debug\net6.0\Principal.exe
+C:\Users\Sena\Downloads\ejercicio\Principal\bin\Debug\net6.0\Principal.deps.json
+C:\Users\Sena\Downloads\ejercicio\Principal\bin\Debug\net6.0\Principal.runtimeconfig.json
+C:\Users\Sena\Downloads\ejercicio\Principal\bin\Debug\net6.0\Principal.dll
+C:\Users\Sena\Downloads\ejercicio\Principal\bin\Debug\net6.0\Principal.pdb
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.csproj.AssemblyReference.cache
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.AssemblyInfoInputs.cache
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.AssemblyInfo.cs
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.dll
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\refint\Principal.dll
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.pdb
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\Principal.genruntimeconfig.cache
+C:\Users\Sena\Downloads\ejercicio\Principal\obj\Debug\net6.0\ref\Principal.dll
